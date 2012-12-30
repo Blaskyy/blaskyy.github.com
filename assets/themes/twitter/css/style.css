@@ -24,6 +24,13 @@ html, body {
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
+.content p {
+  color: #464646;
+}
+.content p strong {
+  color: #464646;
+  font-weight: 900;
+}
 
 /* Page header tweaks */
 .page-header {
@@ -37,35 +44,60 @@ html, body {
 }
 
 
-/* tag_box ======================================================== */
+/* tag_box */
 
 .tag_box {
-	list-style:none;
-	margin:0;
-	padding:5px 0 ;
-	overflow:hidden;
+  list-style:none;
+  margin:0;
+  padding:5px 0 ;
+  overflow:hidden;
 }
 .tag_box li {
-	line-height:28px;
+  line-height:28px;
 }
 .tag_box.inline li {
-	float:left;
+  float:left;
 }
 .tag_box a {
-	padding: 3px 6px;
-	margin: 2px;
-	background: #eee;
-	color:#005F6B;
-	border-radius: 3px;
-	text-decoration:none;
+  padding: 3px 6px;
+  margin: 2px;
+  background: #EEE;
+  color:#005F6B;
+  border-radius: 3px;
+  text-decoration:none;
 }
 .tag_box a span{
-	vertical-align:super;
-	font-size:0.8em;
+  vertical-align:super;
+  font-size:0.8em;
 }
 .tag_box a.active {
-	background:#57A957;
-	border:1px solid #4C964D;
-	color:#FFF;
+  background:#57A957;
+  border:1px solid #4C964D;
+  color:#FFF;
 }
-	
+
+/* 自定义 */
+img#blask-face {
+  margin-bottom: 1em;
+}
+.for-404 {
+  overflow: hidden;
+  margin: 0 auto;
+  width: 400px;
+}
+.for-404 p {
+ text-align:center;
+}
+ul.nav-list > li > a > span {
+  font-size: 0.8em;
+  color: #999;
+}
+li.index_tags {
+  margin: 0 2px;
+  padding: 3px 3px;
+  line-height: 1.2em;
+  float: left;
+}
+.clear {
+  clear: both;
+}

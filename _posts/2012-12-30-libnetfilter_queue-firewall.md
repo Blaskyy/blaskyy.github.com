@@ -2,7 +2,7 @@
 layout: post
 title: 利用Netfilter打造用户态防火墙
 category: linux
-tag: [libnetfilter_queue, firewall]
+tags: [libnetfilter_queue, firewall]
 ---
 {% include JB/setup %}
 ###前言
