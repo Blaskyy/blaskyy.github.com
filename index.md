@@ -26,6 +26,7 @@ tagline: Goodbye Yesterday and Hello Tomorrow!
   <div class="span4">
 
     <ul class="nav nav-list">
+      <li><img src="/assets/images/face.jpg" class="img-polaroid" id="blask-face" height="200" width="200"></li>
       <li class="nav-header">Latest</li>
       {% for post in site.posts limit: 8 %}
       <li class="list">
@@ -52,9 +53,9 @@ tagline: Goodbye Yesterday and Hello Tomorrow!
       <li class="clear"></li>
 
       <li class="nav-header">Links</li>
-      <li><a href="https://github.com/blaskyy">➤ My Github</a></li>
-      <li><a href="http://kshift.me/">➤ Kshift.lv's Blog</a></li>
-      <li><a href="http://fxck.it/">➤ Alsotang's Blog</a></li>
+      <li><a href="https://github.com/blaskyy"><i class="icon-bookmark"></i>My Github</a></li>
+      <li><a href="http://kshift.me/"><i class="icon-bookmark"></i>Kshift.lv's Blog</a></li>
+      <li><a href="http://fxck.it/"><i class="icon-bookmark"></i>Alsotang's Blog</a></li>
     </ul>
 
   </div>
