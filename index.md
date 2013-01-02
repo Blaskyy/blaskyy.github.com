@@ -54,7 +54,7 @@ tagline: Goodbye Yesterday and Hello Tomorrow!
 
       <li class="nav-header">Links</li>
       <li><a href="https://github.com/blaskyy"><i class="icon-bookmark"></i>My Github</a></li>
-      <li><a href="http://kshift.me/"><i class="icon-bookmark"></i>Kshift.lv's Blog</a></li>
+      <li><a href="http://kshift.me/"><i class="icon-bookmark"></i>Kshift's Blog</a></li>
       <li><a href="http://fxck.it/"><i class="icon-bookmark"></i>Alsotang's Blog</a></li>
     </ul>
 
