@@ -11,7 +11,7 @@ tags: [linux, chakra]
 
 Chakra提供类似于yaourt的ccr(Chakra Community Repository)来使用社区软件仓库。
 
-桌面环境的话个人比较倾向于功能强大且稳定的KDE，Chakra提供了最纯净的KDE环境，常用GTK软件都以Bundle的形式安装，个人觉得Bundle的好处就是不污染，无残留。（对于强迫症，完美主义，以及系统洁癖的人来说这点很重要！）这也就是我不用Arch+KDE而用Chakra的原因之一。
+桌面环境的话个人比较倾向于功能强大且稳定的KDE，Chakra提供了最纯净的KDE环境，常用GTK软件都以Bundle的形式安装，个人觉得Bundle的好处就是不污染，无残留。(对于强迫症，完美主义，以及系统洁癖的人来说这点很重要！)这也就是我不用Arch+KDE而用Chakra的原因之一。
 
 关于为何选择了Chakra而不是Arch+KDE的另一个原因就是Chakra的半滚动无痛更新，虽说OpenSUSE也有Tumbleweed版，但是每当新版本发布时zypper dup之后总是各种疼～和Arch的滚动发行比区别在于Chakra GNU/Linux 的核心包的更新至少经过数周至数月的测试，才会升级到最新版。目的就是让系统更加稳定。相反地，软件和桌面组件会在发布新版本第一时间，更新到最新版。目的就是让用户能用到最新的桌面与软件。这一点很符合我个人的取向。
 
