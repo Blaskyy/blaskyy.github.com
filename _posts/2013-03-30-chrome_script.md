@@ -8,128 +8,61 @@ tags: [extension, chrome]
 仅以此文记录下目前所使用的Chrome扩展及油猴脚本及Stylish
 ###Extensions
 
-1\. AdBlock:
+1. [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 
-    The most popular Chrome extension, with over 10 million users! Blocks ads all over the web. Permissions Visit website
-    ID: gighmmpiobklfepjocnamgkkbiglidom
+2. [AutoPager Chrome](https://chrome.google.com/webstore/detail/mmgagnmbebdebebbcleklifnobamjonh)
 
-2\. AutoPager Chrome:
+3. [Awesome Screenshot: Capture & Annotate](https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce):
 
-    AutoPager For Chrome Permissions Visit website
-    ID: mmgagnmbebdebebbcleklifnobamjonh
+4. [Bulk Download Images(ZIG)](https://chrome.google.com/webstore/detail/bedbigoemkinkepgmcmgnapjcahnedmn)
 
-3\. Awesome Screenshot: Capture & Annotate
+5. [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/oeopbcgkkoapgobdbedcemjljbihmemj)
 
-    Capture the whole page or any portion, annotate it with rectangles, circles, arrows, lines and text, blur sensitive info, one-click upload to share. Support PNG and shortcuts. Permissions Visit website
-    ID: alelhddbbhepgpmgidjdcjakblofbmce
+6. [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/gbchcmhmhahfdphkhkmpfmihenigjmpp)
 
-4\. Bulk Download Images(ZIG)
+7. [Feedly - Your News, RSS, Google Reader](https://chrome.google.com/webstore/detail/hipbfijinpcgfogaopmgehiegacbhmob)
 
-    Bulk image downloader(ZIG - zzllrr Imager Geek), supports for rules to download large pictures quickly on every photo website! Screenshot, Search Engine DIY, JS are also integrated. Geeks Must Have! Permissions Visit website
-    ID: bedbigoemkinkepgmcmgnapjcahnedmn
+8. [Google+ Notifications](https://chrome.google.com/webstore/detail/boemmnepglcoinjcdlfcpcbmhiecichi)
 
-5\. Checker Plus for Gmail™
+9. [LastPass](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd)
 
-    Displays new emails and the sender's contact photo, get desktop notifications or even listen, read or delete them without opening a Google Mail tab! Plus many options. Permissions Visit website
-    ID: oeopbcgkkoapgobdbedcemjljbihmemj
+10. [Memo Notepad](https://chrome.google.com/webstore/detail/nmoihkoninaoanjobiiknmgenhpaecec)
 
-6\. Chrome Remote Desktop
+11. [One-Click Extensions Manager](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)
 
-    Access other computers or allow another user to access your computer securely over the Internet. Permissions Visit website
-    ID: gbchcmhmhahfdphkhkmpfmihenigjmpp
+12. [Pastebin.com](https://chrome.google.com/webstore/detail/ghipmampnddcpdlppkkamoankmkmcbmh)
 
-7\. Feedly - Your News, RSS, Google Reader
+13. [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/dpplabbmogkhghncfbfdeeokoefdjegm)
 
-    Feedly is a news reader for creative minds. Seamless migration from Google Reader. Permissions Visit website
-    ID: hipbfijinpcgfogaopmgehiegacbhmob
+14. [Stylish](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 
-8\. Google+ Notifications
+15. [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-    View notifications of Google+ activity when signed in, anywhere you go on the web. Permissions Visit website
-    ID: boemmnepglcoinjcdlfcpcbmhiecichi
+16. [Vimium](https://chrome.google.com/webstore/detail/dbepggeogbaibhgnhhndojpepiihcmeb)
 
-9\. LastPass
-
-    LastPass is a free password manager and form filler. LastPass is also available for Firefox, Internet Explorer, Opera and Safari. Permissions Visit website
-    ID: hdokiejnpimakedhajhdlcegeplioahd
-
-10\. Memo Notepad
-
-    A simple and easy place for your thoughts and notes Permissions Visit website
-    ID: nmoihkoninaoanjobiiknmgenhpaecec
-
-11\. One-Click Extensions Manager
-
-    Permissions Visit website
-    ID: niemebbfnfbjfojajlmnbiikmcpjkkja
-
-12\. Pastebin.com
-
-    Store text for a certain period of time with Pastebin.com the #1 paste tool since 2002 Permissions Visit website
-    ID: ghipmampnddcpdlppkkamoankmkmcbmh
-
-13\. Proxy SwitchySharp
-
-    Manage and switch between multiple proxies quickly & easily. Based on "Proxy Switchy!" & "SwitchyPlus" Permissions Visit website
-    ID: dpplabbmogkhghncfbfdeeokoefdjegm
-
-14\. Stylish
-
-    Restyle the web with Stylish, a user styles manager. Stylish lets you easily install themes and skins for Google, Facebook, YouTube, Orkut, and many, many other sites. Permissions Visit website
-    ID: fjnbnpbmkenffdnngjfgmeleoegfcffe
-
-15\. Tampermonkey
-
-    the most popular userscript manager for Google Chrome Permissions Visit website
-    ID: dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-16\. Vimium
-
-    The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim. Permissions Visit website
-    ID: dbepggeogbaibhgnhhndojpepiihcmeb
-
-17\. 易词典
-
-    Chrome下最好用的翻译工具,可取词可划词,支持金山词霸、QQ词典、必应词典、百度翻译、有道翻译、Google翻译 Permissions Visit website
-    ID: njeebknkghnjbobnghdlfgfaigkjciih
+17. [易词典](https://chrome.google.com/webstore/detail/njeebknkghnjbobnghdlfgfaigkjciih)
 
 ###Monkey Scripts
 
-1\. Google SSL Privacy Real Link
+1. [Google SSL Privacy Real Link](http://userscripts.org/scripts/show/145014)
 
-    http://userscripts.org/scripts/show/145014
+2. [Google+ Pinterest for the New UI](http://userscripts.org/scripts/show/130955)
 
-2\. Google+ Pinterest for the New UI
+3. [HTTP-to-HTTPS redirector](http://userscripts.org/scripts/show/2588)
 
-    http://userscripts.org/scripts/show/130955
+4. [Simplify Google Reader](http://userscripts.org/scripts/show/140900)
 
-3\. ThunderLixianExporter
+5. [ThunderLixianExporter](http://binux.github.com/ThunderLixianExporter)
 
-    http://binux.github.com/ThunderLixianExporter
+6. [Verycdfetch](http://userscripts.org/scripts/show/153429)
 
-4\. Simplify Google Reader
+7. [YouTube Video Download](http://userscripts.org/scripts/show/62634)
 
-    http://userscripts.org/scripts/show/140900
-
-5\. YouTube Video Download
-
-    http://userscripts.org/scripts/show/62634
-
-6\. verycdfetch
-
-    http://userscripts.org/scripts/show/153429
-
-7\. HTTP-to-HTTPS redirector
-
-    http://userscripts.org/scripts/show/2588
 
 ###Stylish
 
-1\. Google 検索ツールをサイドバーへ
+1. [Google 検索ツールをサイドバーへ](http://userstyles.org/styles/78857)
 
-    http://userstyles.org/styles/78857
+2. [Youtube - Lights off!](http://userstyles.org/styles/59573)
 
-2\. Youtube - Lights off!
-
-    http://userstyles.org/styles/59573
 
