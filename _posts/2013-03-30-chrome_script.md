@@ -42,8 +42,6 @@ tags: [extension, chrome]
 
 17. [易词典](https://chrome.google.com/webstore/detail/njeebknkghnjbobnghdlfgfaigkjciih)
 
-18. [Dualx](https://chrome.google.com/webstore/detail/mdmfkkgbifpockljpdagggdaiheefbpp)
-
 ###Monkey Scripts
 
 1. [Google SSL Privacy Real Link](http://userscripts.org/scripts/show/145014)
