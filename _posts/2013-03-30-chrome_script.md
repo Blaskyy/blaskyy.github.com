@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blask's Chrome Scripts
-category: linux
+category: chrome
 tags: [extension, chrome]
 ---
 {% include JB/setup %}
