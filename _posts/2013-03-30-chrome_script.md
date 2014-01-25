@@ -58,6 +58,7 @@ tags: [extension, chrome]
 
 7. [YouTube Video Download](http://userscripts.org/scripts/show/62634)
 
+8. [BaiduPanDownloadHelper](http://userscripts.org/scripts/show/162138)
 
 ###Stylish
 
